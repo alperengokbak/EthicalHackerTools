@@ -6,3 +6,5 @@
 5) Keylogger(MyKeylogger)
 6) Encryptor the defined files(MyEncryptor)
 7) Decryptor the defined files(MyDecryptor)
+8) Listener for the backdoors
+9) Backdoor Reverse TCP
