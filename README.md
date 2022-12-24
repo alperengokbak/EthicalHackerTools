@@ -8,3 +8,5 @@
 7) Decryptor the defined files(MyDecryptor)
 8) Listener for the backdoors
 9) Backdoor Reverse TCP
+10) Backdoor Reverse TCP(Python3 Compatible)
+11) Listener for the backdoors(Python3 Compatible)
