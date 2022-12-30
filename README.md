@@ -10,3 +10,5 @@
 9) Backdoor Reverse TCP
 10) Backdoor Reverse TCP(Python3 Compatible)
 11) Listener for the backdoors(Python3 Compatible)
+12) MyPackage
+13) Buffer Exploit (fuzzing, offset, badCharacter and finally, bfExploit)
